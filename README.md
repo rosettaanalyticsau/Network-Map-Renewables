@@ -2,11 +2,17 @@
 
 ![Rosetta Network Map Renewables](Rosetta%20Network%20Map%20Renewables.jpeg)
 
-Welcome to the GitHub Project for **Network Map Renewables**, an open-access platform containing Renewable Energy Projects in Australia with integration into AEMO NEM Web and State Government Cadastre sources. 
+Welcome to the GitHub Project for **Network Map Renewables**, an open-access platform containing Renewable Energy Projects in Australia with integration into AEMO NEM Web and State Government Cadastre sources.
+
+The open public beta of Network Map Renewables is now available, complete with generation spatial files being open access and downloadable, BOM/AREMI Data61 raster layers including solar exposure and wind speeds, and much more.
+
+**Link:** [https://renewables.networkmap.energy](https://renewables.networkmap.energy)
 
 ## About Rosetta Analytics
 
 Rosetta Analytics is the premier provider of NEM spatial information and continues to support the industry in moving towards net-zero. Our commitment is to provide the most accurate, comprehensive, and up-to-date spatial data related to renewable energy projects, facilitating better decision-making and planning in the energy sector.
+
+Since 2020, Rosetta Analytics and Network Map have been providing high-quality energy network information, working with all major Australian TNSP/DNSPs.
 
 ## Features
 
